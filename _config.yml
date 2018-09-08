@@ -7,11 +7,11 @@ url                          : "http://www.amywjwu.com" # the base hostname & pr
 blog:
   title                      : Amy
   description                  : >
-                               this should contain a proper description
+                               A place for a maker's project
 
 # Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
-  search_path                : # "yourgitusername.github.io"
+  logo_path                  : "assets/img/wjlogo.svg" # path to logo file
+  search_path                : amymuwu.github.io # "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
@@ -26,11 +26,11 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Amy WJ Wu
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
+  mail                      : amywjwu@gmail.com # change to your e-mail address
   twitter                   : twitter-user-name
-  github                    : github-user-name
+  github                    : amymuwu
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
   disqus                    : dactl # your disqus site name
