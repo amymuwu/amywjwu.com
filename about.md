@@ -21,6 +21,7 @@ published: true
 ## About Me 
 
 Welcome to my page! I post my work and personal projects on here so you can check it out!
-I am currently a student at UBC Integrated Engineering - a multidisicplanry 
+
+I am currently a student at UBC Integrated Engineering - a multidisciplinary engineering degree - presently focused on civil and mechanical engineering.  I am on _______________________________ and work on a lot of side projects (like jewlery making!) 
 
 </div>
