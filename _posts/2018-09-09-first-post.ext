@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to dactl!"
+title:  "My first post!"
 tags:
   - yay
 hero: https://source.unsplash.com/collection/430471/
@@ -8,4 +8,4 @@ overlay: red
 published: true
 
 ---
-Hi
+Hello why is this an error
