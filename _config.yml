@@ -27,13 +27,13 @@ blog:
 # Author info
 author:
   fullname                  : Amy WJ Wu
-  rss                       : true # generate RSS feed and show it's icon in header
+  rss                       : false # generate RSS feed and show it's icon in header
   mail                      : amywjwu@gmail.com # change to your e-mail address
-  twitter                   : twitter-user-name
+  twitter                   : false
   github                    : amymuwu
   youtube                   : channel/UCSVN7d4qm5PeJyrJAqan5Pw
-  stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
+  stackoverflow             : false
+  disqus                    : false # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/profilepic.jpg"
   photo2x                   : "uploads/profilepic.jpg"
