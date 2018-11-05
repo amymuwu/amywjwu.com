@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "Website Under Construction"
+title:  "Welcome to my Blog"
 tags:
-  - yay
-hero: https://source.unsplash.com/collection/430471/
+  - welcome
+hero: https://unsplash.com/photos/7A6QfNXaRzk
 overlay: red
 published: true
 
 ---
-Hello why is this an error
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+Hello there! I just wanted to give you a warm welcome to my blog.  My blog will cover my projects -from 3D printing to jewlery making! I hope you enjoy!
+
+
