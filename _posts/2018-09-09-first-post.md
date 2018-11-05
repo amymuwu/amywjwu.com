@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to my Blog"
 tags:
   - welcome
-hero: https://unsplash.com/photos/7A6QfNXaRzk
+hero: https://unsplash.com/collections/3468548/backsplashes
 overlay: red
 published: true
 
