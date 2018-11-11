@@ -9,7 +9,7 @@ overlay: orange
 published: true
 ---
 
-Over the last couple of weeks, I have been working with the rudder foil subteam to finalize the rudder foil and skeg design.  In order to verify our design, we have decided to use UBC's Parkinson Wind Tunnel to test our design. We are going to find our drag and life coefficents, our Reynold's number for each of our rudder foil and skeg designs and flow visualizations. 
+Over the last couple of weeks, I have been working with the rudder foil subteam to finalize the rudder foil and skeg design.  In order to verify our design, we have decided to use UBC's Parkinson Wind Tunnel to test our design. We are going to find our drag and life coefficents, our Reynold's number for each of our designs and flow visualizations. We are doing intensive testing on our design in order to prevent unwanted vortexes and flow which will lower the effectiveness of our rudder.  
 
 I am going to recieve training to use the Parkinson's Wind Tunnel at [UBC's Areolab](http://mech.ubc.ca/aerolab/facilities/) this Thursday.  
 
@@ -28,4 +28,7 @@ We used the following formula to calculate our Reynold's number:
 > L = actual chord length of rudder foil
 > μ = dynamic velocity of ocean water 
 
-We established a proportionality with velocity at a set scale with different "ρ" values to determine the wind speeds we need to achieve.  
+We established a proportionality with velocity at a set scale with different "ρ" values to determine the wind speeds we need to achieve. 
+At 20% scale and the maximum wind speeds of 30 km/h of the Parkinson Wind Tunnel, we can only simulate near stalling speeds.  In order to find our Reynold's number at realistic sailing speeds, we will find our drag and lift coefficents (since they are linear up until the stalling point) and extrapolate our Reynold's numbers on there.  
+
+In addition to real-life testing, I will estimate our
