@@ -33,4 +33,10 @@ At 20% scale and the maximum wind speeds of 30 km/h of the Parkinson Wind Tunnel
 
 In addition to real-life testing, I will test our designs on ANSYS to compliment and add on to our real-life testing.  
 
+## 3D Printing the Scale Model
+
+3D printing the scale model is a challenge itself.  Given that the largest print I have ever done was 12 hours long, this project will take up 4 times as long! Such a large print -even if it is in pieces- has a very high failure rate.  In order to reduce the fail rate of the print, I will eliminate overhangs and potentially remove support material from the model. Additionally, print times will be reduced through thin shells and low desity prints.  
+
+To relate the scale model design to my MECH 260 course, the hull shell will be thicker with a thin shell and low density infill to maximize our moment of inertia to minimize the bending of the boat while testing.  
+
 
