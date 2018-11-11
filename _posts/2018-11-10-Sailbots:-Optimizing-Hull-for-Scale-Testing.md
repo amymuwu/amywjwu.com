@@ -31,4 +31,6 @@ We used the following formula to calculate our Reynold's number:
 We established a proportionality with velocity at a set scale with different "ρ" values to determine the wind speeds we need to achieve. 
 At 20% scale and the maximum wind speeds of 30 km/h of the Parkinson Wind Tunnel, we can only simulate near stalling speeds.  In order to find our Reynold's number at realistic sailing speeds, we will find our drag and lift coefficents (since they are linear up until the stalling point) and extrapolate our Reynold's numbers on there.  
 
-In addition to real-life testing, I will estimate our
+In addition to real-life testing, I will test our designs on ANSYS to compliment and add on to our real-life testing.  
+
+
