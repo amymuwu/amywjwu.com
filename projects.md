@@ -25,6 +25,6 @@ Prototyping
 
 ## Art and Design
 
-Jewlery
+Jewelry
 
 </div>
