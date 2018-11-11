@@ -13,13 +13,19 @@ Over the last couple of weeks, I have been working with the rudder foil subteam 
 
 I am going to recieve training to use the Parkinson's Wind Tunnel at [UBC's Areolab](http://mech.ubc.ca/aerolab/facilities/) this Thursday.  
 
-Of course, no testing would be complete -or accurate- with some calculations before hand.
+Of course, no testing would be complete -or accurate- without some calculations before hand.
 
 ## Testing Scale and Wind Speeds
 In order to calculate our model size and wind speed needed, we equated two Reynolds numbers - for air and for ocean water - and found what we need for our fluid simulation.  
 
 We used the following formula to calculate our Reynold's number:
 
-![alt text](http://airfoiltools.com/images/maths/renumber.gif "http://airfoiltools.com/images/maths/renumber.gif")
+> Reynold's number in the ocean = ρvL/μ = Reynold's number in air (with scale model)
+>
+> Where:
+> ρ = density of ocean water
+> v = estimated velocity of the sailboat
+> L = actual chord length of rudder foil
+> μ = dynamic velocity of ocean water 
 
-We established a proportionality with velocity at a set scale with different rho values to determine the wind speeds we need to achieve.  
+We established a proportionality with velocity at a set scale with different "ρ" values to determine the wind speeds we need to achieve.  
