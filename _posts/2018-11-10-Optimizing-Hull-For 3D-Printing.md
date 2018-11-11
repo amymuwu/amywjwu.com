@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sailbots - Optimizing the Hull for 3D Printing"
+title:  "Sailbots - Optimizing for Scale Testing"
 tags:
   - Sailbots
   -3D Printing
