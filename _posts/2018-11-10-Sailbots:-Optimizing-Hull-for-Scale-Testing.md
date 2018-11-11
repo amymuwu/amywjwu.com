@@ -16,6 +16,7 @@ I am going to recieve training to use the Parkinson's Wind Tunnel at [UBC's Areo
 Of course, no testing would be complete -or accurate- without some calculations before hand.
 
 **Testing Scale and Wind Speeds**
+
 In order to calculate our model size and wind speed needed, we equated two Reynolds numbers - for air and for ocean water - and found what we need for our fluid simulation.  
 
 We used the following formula to calculate our Reynold's number:
