@@ -17,6 +17,5 @@ Of course, no testing would be complete -or accurate- with some calculations bef
 
 ## Testing Scale and Wind Speeds
 In order to calculate our model size and wind speed needed, we equated two Reynolds numbers - for air and for ocean water - and found what we need for our fluid simulation.  
-|Formula    |ρ water|
-|-------    |-------|
-|R = ρvL/μ  |5      |
+
+![alt text](http://airfoiltools.com/images/maths/renumber.gif "http://airfoiltools.com/images/maths/renumber.gif")
