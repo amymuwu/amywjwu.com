@@ -15,7 +15,7 @@ I am going to recieve training to use the Parkinson's Wind Tunnel at [UBC's Areo
 
 Of course, no testing would be complete -or accurate- without some calculations before hand.
 
-## Testing Scale and Wind Speeds
+*Testing Scale and Wind Speeds*
 In order to calculate our model size and wind speed needed, we equated two Reynolds numbers - for air and for ocean water - and found what we need for our fluid simulation.  
 
 We used the following formula to calculate our Reynold's number:
@@ -33,7 +33,7 @@ At 20% scale and the maximum wind speeds of 30 km/h of the Parkinson Wind Tunnel
 
 In addition to real-life testing, I will test our designs on ANSYS to compliment and add on to our real-life testing.  
 
-## 3D Printing the Scale Model
+*3D Printing the Scale Model*
 
 3D printing the scale model is a challenge itself.  Given that the largest print I have ever done was 12 hours long, this project will take up 4 times as long! Such a large print -even if it is in pieces- has a very high failure rate.  In order to reduce the fail rate of the print, I will eliminate overhangs and potentially remove support material from the model. Additionally, print times will be reduced through thin shells and low desity prints.  
 
