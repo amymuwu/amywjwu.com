@@ -2,8 +2,8 @@
 layout: post
 title:  "Sailbots: Optimizing Hull for Scale Testing"
 tags:
-  -Sailbots
-  -3D-Printing
+  Sailbots
+  3D-Printing
 hero: https://source.unsplash.com/collection/145103/
 overlay: orange
 published: true
