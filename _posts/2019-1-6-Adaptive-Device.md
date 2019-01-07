@@ -28,5 +28,6 @@ I choose the following materials for being durable, comfortable and body safe.
 - Hand "cover" (3D Printed TPE) - $1.25
 - "Rod" (PLA) - $0.50
 
-For the hand "cover" TPE was choosen over other "soft" plastics because TPE is often choosen for medical devices and has much higher ability to retain it's shape.  
+For the hand "cover" TPE was choosen over other "soft" plastics because TPE is often choosen for medical devices and has much higher ability to retain it's shape.  Total cost: **$2.75**
+
 
