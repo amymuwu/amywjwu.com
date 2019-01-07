@@ -22,7 +22,11 @@ I met with A. to discuss commerical and customized options for his new adaptive 
 | Easy to hold      | Lightweight (less than 200 grams)        |
 | Comfortable       | Made with body safe, flexible plastic    |
 
+**Materials** 
+I choose the following materials for being durable, comfortable and body safe.
+- elastic hand strap (polyster and cotton composite with velcro openings) - $1.00
+- Hand "cover" (3D Printed TPE) - $1.25
+- "Rod" (PLA) - $0.50
 
-
-
+For the hand "cover" TPE was choosen over other "soft" plastics because TPE is often choosen for medical devices and has much higher ability to retain it's shape.  
 
