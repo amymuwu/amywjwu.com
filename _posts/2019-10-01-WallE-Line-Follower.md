@@ -25,4 +25,6 @@ I'm not going to go much detail into the proccess of the project because it was 
 * a WallE!
 
 **The Design** 
+
 <img src="https://i.imgur.com/LenB5bV.jpg" width="400" height="400" /><img src="https://i.imgur.com/sE4TkdF.jpg" width="400" height="400" />
+Image 1: Quick sketch of design (left) and dimensionally accurate layout in SolidWorks (right)
