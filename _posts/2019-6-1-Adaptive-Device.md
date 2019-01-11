@@ -30,7 +30,7 @@ I choose the following materials for being durable, comfortable and body safe.
 
 For the hand "cover" TPE was choosen over other "soft" plastics because TPE is often choosen for medical devices and has much higher ability to retain it's shape.  Total cost: **$2.75**
 
-![Comparison](https://i.imgur.com/x3NPI5w.jpg =250px)
+![Comparison](https://i.imgur.com/x3NPI5w.jpg =250x)
 Image 1: A Comparison
 His last assistive device was made from (heavy) splinting material and wrapped with electrical tape.
 
