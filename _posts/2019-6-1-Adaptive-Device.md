@@ -32,7 +32,7 @@ For the hand "cover" TPE was choosen over other "soft" plastics because TPE is o
 
 **CAD and 3D Printing**
 I took a few pictures of A.'s hands and pulled them up to "sculpt" out the shape in solidworks so it fits in his hand perfectly.  At that time, my printer was incapable of 3D printing soft materials so my co-worker helped me print it using his Prusa MK2 at 0.2 mm layer height.
-<img src="https://i.imgur.com/x3NPI5w.jpg" alt="comparision" style="width:200px;"/>
+<img src="https://i.imgur.com/x3NPI5w.jpg" alt="comparision" style="width:100px;"/>
 Image 1: His last assistive device (right of image) was made from (heavy) splinting material and wrapped with electrical tape.
 
 **Iteratations**
