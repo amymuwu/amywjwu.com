@@ -38,4 +38,4 @@ Image 1: His last assistive device (right of image) was made from (heavy) splint
 **Iteratations**
 Version 1 was not successfully adapted because A. could not reach the "off" button of his television remote.  To fix this, I added a slight incline of 20 degrees to the pointer section of the device.  
 
-<img width="200" alt="portfolio_view" src="https://i.imgur.com/uObaxWU.gif">
+![device_use](https://i.imgur.com/UITE7AD.gif)
