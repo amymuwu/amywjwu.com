@@ -32,10 +32,16 @@ For the hand "cover" TPE was choosen over other "soft" plastics because TPE is o
 
 **CAD and 3D Printing**
 I took a few pictures of A.'s hands and pulled them up to "sculpt" out the shape in solidworks so it fits in his hand perfectly.  At that time, my printer was incapable of 3D printing soft materials so my co-worker helped me print it using his Prusa MK2 at 0.2 mm layer height.
-<img src="https://i.imgur.com/x3NPI5w.jpg" alt="comparision" style="width:100px;"/>
+<img src="https://i.imgur.com/x3NPI5w.jpg" alt="comparision" style="width:400px;"/>
 Image 1: His last assistive device (right of image) was made from (heavy) splinting material and wrapped with electrical tape.
 
 **Iteratations**
 Version 1 was not successfully adapted because A. could not reach the "off" button of his television remote.  To fix this, I added a slight incline of 20 degrees to the pointer section of the device.  
 
 ![device_use](https://i.imgur.com/3UYbC9x.gif)
+Image 2: A. Still Uses the Device! 
+
+**Conclusion**
+An adaptive device was created to aid a man with limited arm and hand mobility.  There was a weight reduction of 90% and the device was successfully adapted.  A custom hand grip was created using SolidWorks and 3D printing.  The new device is much more professional and sleek. 
+
+Thank you Tetra Society of North America for giving me this wonderful opportunity! It was a pleasure working with A. and the Society.  
