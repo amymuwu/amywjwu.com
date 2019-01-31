@@ -31,4 +31,4 @@ Image 1: A Quick Preliminary Sketch
 <img src="https://i.imgur.com/sE4TkdF.jpg" width="400" height="400" />
 Image 2: Dimensionally Accurate SolidWorks Model
 
-![Alt Text](https://i.imgur.com/xtaEM57.gif)
+![Alt Text](https://i.imgur.com/5krAaVm.gif)
