@@ -23,7 +23,7 @@ Prototyping
 
 ## Art
 
-Art Portfolio
-Jewelry
+  * [Art Portfolio](https://www.amywjwu.com/posts/art-portfolio)
+  * Jewelry
 
 </div>
