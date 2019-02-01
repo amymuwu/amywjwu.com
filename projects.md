@@ -11,7 +11,7 @@ published: true
 ## Engineering
 
 Mechatronics
-[WallE](https://www.amywjwu.com/posts/walle-line-follower)
+  * [WallE](https://www.amywjwu.com/posts/walle-line-follower)
 
 Prototyping
   * [Adaptive Device for Phone and Television](https://www.amywjwu.com/posts/adaptive-device)
