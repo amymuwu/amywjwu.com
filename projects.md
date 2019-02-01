@@ -10,21 +10,20 @@ published: true
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 ## Engineering
 
-[Sailbots](https://ubcsailbot.org/)
-  * Optimizing Hull for Wind Tunnel Testing
-  * 3D Printing Hull, Kneel and Rudder Foil for Testing
-  * Reynold's Number for Rudder Foil
-
 Mechatronics
-  * glObe - an interactive education tool for school aged students
+[WallE](https://www.amywjwu.com/posts/walle-line-follower)
 
 Prototyping
-  * QuickZip
-  * Forearm Massager Prototype
-  * Collapsible Pool Triangle
+  * [Adaptive Device for Phone and Television](https://www.amywjwu.com/posts/adaptive-device)
+  
+  
+[Sailbots](https://ubcsailbot.org/)
+  * [Optimizing Hull for Wind Tunnel Testing](https://www.amywjwu.com/posts/sailbots-optimizing-hull-for-scale-testing)
 
-## Art and Design
 
+## Art
+
+Art Portfolio
 Jewelry
 
 </div>
