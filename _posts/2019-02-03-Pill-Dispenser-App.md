@@ -10,7 +10,9 @@ published: true
 I am throwing myself into the deep end again.  This time, I threw myself into the figurative pool of android app development.  Why android?  Simple.  I don't own a Mac (and getting it onto the app store will be hard). 
 
 **Target Audience:** elderly, caregivers, pharmacists, nurses, doctors
+
 **Objectives:** Retrieving medication data from the user, setting appropriate local and device alarms/reminders, sending data to Firebase
+
 **Requirements:** simple to use, easy to see, connects user with device and caregivers
 
 1. Wireframing
