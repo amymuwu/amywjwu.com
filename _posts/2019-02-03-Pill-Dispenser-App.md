@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Android App for IOT Connected Pill Dispenser"
+title:  "Android App for IOT Connected Pill Dispenser - WIP"
 tags:
   Automatic Pill Dispenser
 hero: https://source.unsplash.com/collection/145103/
